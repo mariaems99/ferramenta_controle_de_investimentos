@@ -13,17 +13,6 @@ Esta ferramenta ajuda a planejar investimentos, visualizar o impacto dos aportes
 5️⃣ Quais serão os dividendos mensais?
 
 
-📊 Ferramenta de Controle de Investimentos
-🔍 Objetivo
-Esta ferramenta ajuda a planejar investimentos, visualizar o impacto dos aportes mensais e entender como o patrimônio pode crescer ao longo dos anos com uma taxa de rendimento fixa.
-❓ Perguntas de Negócio
-1️⃣ Quanto investir por mês?
-2️⃣ Por quantos anos?
-3️⃣ Qual a taxa de rendimento mensal?
-4️⃣ Qual será o patrimônio acumulado?
-5️⃣ Quais serão os dividendos mensais?
-
-
 🏦 Simulador de Patrimônio
 Este simulador calcula o valor acumulado e os dividendos mensais de um investimento ao longo do tempo, considerando um aporte mensal e uma taxa de rendimento fixa.
 📌 Parâmetros utilizados:
