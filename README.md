@@ -13,8 +13,6 @@ Esta ferramenta ajuda a planejar investimentos, visualizar o impacto dos aportes
 5️⃣ Quais serão os dividendos mensais?
 
 
-Aqui está seu README.md formatado de forma organizada e visualmente agradável para o GitHub:
-
 📊 Ferramenta de Controle de Investimentos
 🔍 Objetivo
 Esta ferramenta ajuda a planejar investimentos, visualizar o impacto dos aportes mensais e entender como o patrimônio pode crescer ao longo dos anos com uma taxa de rendimento fixa.
